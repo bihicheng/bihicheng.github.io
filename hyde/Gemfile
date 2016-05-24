@@ -1,0 +1,18 @@
+source 'https://ruby.taobao.org'
+#source 'https://rubygems.org'
+gem 'redcarpet'
+
+gem 'jekyll-paginate'
+
+gem 'kramdown'
+
+gem 'jekyll-gist'
+
+gem 'jekyll-coffeescript'
+
+gem 'pygments.rb'
+
+gem 'toml'
+
+gem 'classifier-reborn'
+gem 'jekyll-watch'
