@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            赤兔的Lab
+tagline:          'Web实验室－也关注字体修复，字体类型转换等'
+description:      '工作中会写一些处理字体，GIF， mp4的程序，所以有一定相关经验，在这里会继续对他们进行深入研究，也会写一些项目经验和相关的设计思路，另外还有我的开源项目会在此发布。'
+url:              https://bihicheng.github.com
+baseurl:          /
+
+author:
+  name:           'bihicheng'
+  url:            http://haichengsf.com
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/bihicheng
+gems: [jekyll-paginate, jekyll-gist]
